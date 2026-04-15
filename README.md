@@ -138,10 +138,10 @@ cd frontend && npm start
 
 ##  Author
 
-**Abhishek Kumar**
+**Biswajit Kumar Pradhan**
 
-- GitHub: [@abhikumar0670](https://github.com/abhikumar0670)
-- Email: abhikumar0670@gmail.com
+- GitHub: [@BISWAJIT69K](https://github.com/BISWAJIT69K)
+- Email: pradhanbiswajit487@gmail.com
 
 ---
 
